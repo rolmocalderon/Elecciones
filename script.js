@@ -2,7 +2,7 @@ var loadedData = [];
 var currentData = [];
 
 document.addEventListener("DOMContentLoaded", function() {
-    readFile('https://frenteobrero.es/wp-content/uploads/2023/07/data.json', (data) => {
+    readFile('https://raw.githubusercontent.com/rolmocalderon/Elecciones/main/data.json', (data) => {
         loadedData = data;
         showData(data, true);
         setBreadcrumb(data, "España");
