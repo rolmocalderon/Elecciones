@@ -30,10 +30,11 @@ body {
 }
 
 .breadcrumb{
-    position: absolute;
-    right: 15%;
-    bottom: 0;
-    font-size: 1.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    font-size: 1.8rem;
 }
 
 .current-option{
@@ -119,28 +120,17 @@ body {
     position: relative;
 }
 
-@media screen and (max-width: 992px) {
-    .center-position{
-        max-width: 90%;
-        margin: 2rem auto;
-    }
-
-    .breadcrumb{
-        right: 5%;
-    }
-}
-
 .searcher{
     position: relative;
     display: inline-block;
 }
 
 input[type="text"] {
-    padding: 8px 30px 8px 20px;
+    padding: 1rem 4rem 1rem 1.5rem;
     border: 1px solid #ccc;
     border-radius: 20px;
     outline: none;
-    font-size: 16px;
+    font-size: 1.2rem;
 }
 
 i {
@@ -157,4 +147,53 @@ input[type="text"]:focus + i {
 
 .hidden{
     display: none;
+}
+
+@media screen and (max-width: 992px) {
+    .center-position{
+        max-width: 100%;
+        margin: 2rem auto;
+    }
+
+    .breadcrumb{
+        right: 5%;
+    }
+
+    .table-container{
+        border-radius: 0;
+    }
+
+    .table-cell{
+        padding: 2.2rem;
+        font-size: 1.5rem;
+    }
+
+    .searcher{
+        width: 90%;
+    }
+
+    input[type="text"]{
+        padding: 1rem 0rem 1rem 1rem;
+        font-size: 2rem;
+        margin-left: 2rem;
+        width: 100%;
+    }
+
+    i{
+        font-size: 1.6rem;
+        margin-right: 1rem;
+    }
+
+    .top-header{
+        margin: 4rem auto;
+    }
+
+    .top-header h1{
+        font-size: 2.8rem;
+        margin-left: 3rem;
+    }
+
+    .header-logo{
+        width: 10rem;
+    }
 }
