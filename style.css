@@ -166,6 +166,7 @@ input[type="text"]:focus + i {
     .table-cell{
         padding: 2.2rem;
         font-size: 1.5rem;
+        font-size: 300;
     }
 
     .searcher{
