@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Elecciones Generales 2023 - Frente Obrero</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <script src="./script.js"></script>
+</head>
+<body>
+    <div class="top-header">
+        <img class="header-logo" src="./Logo_Frente_Obrero.png">
+        <h1>Elecciones Generales 2023</h1>
+    </div>
+    <div class="bottom-header center-position">
+        <div class="searcher">
+            <input type="text" class="searcher-input" placeholder="Buscar...">
+            <i class="fas fa-search"></i>
+        </div>
+        <div class="breadcrumb"></div>
+    </div>
+    <div class="table-container center-position">
+        <div class="table-row table-header">
+            <div class="table-cell" data-key="name">Nombre</div>
+            <div class="table-cell" data-key="votos">Votos</div>
+            <div class="table-cell" data-key="votosTotales">Votos Totales</div>
+            <div class="table-cell" data-key="porcentajeDeVoto">Porcentaje</div>
+        </div>
+        <div class="table-body" id="tableBody"></div>
+    </div>
+</body>
+</html>
