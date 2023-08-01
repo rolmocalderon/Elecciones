@@ -121,6 +121,9 @@ body {
     flex: 1;
     padding: 15px;
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
 }
 
