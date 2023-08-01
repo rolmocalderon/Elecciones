@@ -163,6 +163,10 @@ input[type="text"]:focus + i {
         border-radius: 0;
     }
 
+    .table-header .table-cell{
+        padding: 1.6rem 2.2rem;
+    }
+
     .table-cell{
         padding: 3rem 2.2rem;
         font-size: 1.8rem;
