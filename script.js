@@ -64,7 +64,7 @@ function updateBreadcrumb(element){
     });
 
     element.classList.add('current-option')
-    showData(getOutputData(element.data, true));
+    showData(getOutputData(element.data), true);
 }
 
 function showData(data, updateCurrentData){
