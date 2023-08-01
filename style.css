@@ -121,14 +121,11 @@ body {
     flex: 1;
     padding: 15px;
     position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
 }
 
 .table-cell:nth-child(1) {
     flex: 2;
-    text-align: left;
 }
 
 .selected-row .table-cell{
@@ -201,7 +198,6 @@ input[type="text"]:focus + i {
     .table-cell{
         padding: 3rem 2.2rem;
         font-size: 1.8rem;
-        font-weight: 300;
     }
 
     .searcher{
