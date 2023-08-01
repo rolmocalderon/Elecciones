@@ -164,9 +164,12 @@ input[type="text"]:focus + i {
     }
 
     .table-cell{
-        padding: 2.2rem;
-        font-size: 1.5rem;
-        font-size: 300;
+        padding: 3rem 2.2rem;
+        font-size: 1.8rem;
+        font-weight: 300;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .searcher{
