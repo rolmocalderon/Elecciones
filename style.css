@@ -2,7 +2,7 @@
 
 *{
     font-family: 'Poppins', sans-serif;
-    font-weight: 200;
+    font-weight: 300;
 }
 body {
     font-family: Arial, sans-serif;
@@ -33,12 +33,19 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 2rem;
-    font-size: 1.8rem;
+    font-size: 1.3rem;
+    flex: 2;
+}
+
+.bottom-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .current-option{
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .breadcrumb-option:not(.current-option):hover{
@@ -57,11 +64,25 @@ body {
 .table-row {
     display: flex;
     border-bottom: 1px solid #e0e0e0;
+    background: #fffaef;
+}
+
+.region{
+    color: #b32828
+}
+
+.province{
+    color: #0e7ac3;
 }
 
 .table-body .table-row:hover{
     background-color: #0b80805c;
     cursor: pointer;
+}
+
+.town.table-row:hover{
+    cursor: default;
+    background-color: inherit;
 }
 
 .table-header {
@@ -70,8 +91,12 @@ body {
     color: #fff;
 }
 
-.table-header .table-cell{
+.table-cell{
     font-weight: 500;
+}
+
+.table-header .table-cell{
+    font-weight: 700;
 }
 
 .table-header .table-cell::after {
@@ -96,10 +121,14 @@ body {
     flex: 1;
     padding: 15px;
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.table-cell:nth-child(2) {
-    text-align: center;
+.table-cell:nth-child(1) {
+    flex: 2;
+    text-align: left;
 }
 
 .selected-row .table-cell{
@@ -123,14 +152,16 @@ body {
 .searcher{
     position: relative;
     display: inline-block;
+    flex: 1;
 }
 
 input[type="text"] {
-    padding: 1rem 4rem 1rem 1.5rem;
+    padding: 1rem 0 1rem 1.5rem;
     border: 1px solid #ccc;
     border-radius: 20px;
     outline: none;
     font-size: 1.2rem;
+    width: 100%;
 }
 
 i {
@@ -171,9 +202,6 @@ input[type="text"]:focus + i {
         padding: 3rem 2.2rem;
         font-size: 1.8rem;
         font-weight: 300;
-        display: flex;
-        align-items: center;
-        justify-content: center;
     }
 
     .searcher{

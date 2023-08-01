@@ -84,7 +84,6 @@ function showData(data, updateCurrentData){
         if(Object.values(region).some(valor => Array.isArray(valor))){
             element.addEventListener('click', (e) => {
             parent = document.querySelector('.table-body');
-
             let outputData = getOutputData(e.currentTarget.data);
 
             setBreadcrumb(region);
@@ -93,6 +92,24 @@ function showData(data, updateCurrentData){
         });
         }
     });
+}
+
+function createTableRow(data) {
+    let typeClass = "town";
+
+    if(data.hasOwnProperty('provinces')){
+        typeClass = "region";
+    }else if(data.hasOwnProperty('towns')){
+        typeClass = "province";
+    }
+
+    return createHtmlElement(`
+        <div class="table-row ${typeClass}">
+            <div class="table-cell" data-column="name">${data.name}</div>
+            <div class="table-cell" data-column="votes">${data.votos}</div>
+            <div class="table-cell" data-column="totalVotes">${data.votosTotales}</div>
+            <div class="table-cell" data-column="votePercentage">${data.porcentajeDeVoto}</div>
+        </div>`);
 }
 
 function getOutputData(data){
@@ -105,16 +122,6 @@ function getOutputData(data){
     }
     
     return outputData;
-}
-
-function createTableRow(data) {
-    return createHtmlElement(`
-        <div class="table-row">
-            <div class="table-cell" data-column="name">${data.name}</div>
-            <div class="table-cell" data-column="votes">${data.votos}</div>
-            <div class="table-cell" data-column="totalVotes">${data.votosTotales}</div>
-            <div class="table-cell" data-column="votePercentage">${data.porcentajeDeVoto}</div>
-        </div>`);
 }
 
 function createHtmlElement(template) {
