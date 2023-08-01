@@ -27464,679 +27464,1804 @@
                 "partidoGanador": "Empate",
                 "towns": [
                     {
-                        "id": "00000000000000000047b81e"
+                        "id": "00000000000000000047b81e",
+                        "name": "Adalia",
+                        "votos": 0,
+                        "votosTotales": 43,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "00000000000000000047b882",
+                        "name": "Aguasal",
+                        "votos": 0,
+                        "votosTotales": 17,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "00000000000000000047b8e6",
+                        "name": "Aguilar de Campos",
+                        "votos": 0,
+                        "votosTotales": 190,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "00000000000000000047b94a",
+                        "name": "Alaejos",
+                        "votos": 1,
+                        "votosTotales": 897,
+                        "porcentajeDeVoto": "0.11",
+                        "partidoGanador": "PSOE"
+                    },
+                    {
+                        "id": "00000000000000000047b9ae",
+                        "name": "Alcazarén",
+                        "votos": 0,
+                        "votosTotales": 395,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "00000000000000000047ba12",
+                        "name": "Aldea de San Miguel",
+                        "votos": 0,
+                        "votosTotales": 150,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
+                    },
+                    {
+                        "id": "00000000000000000047ba76",
+                        "name": "Aldeamayor de San Martín",
+                        "votos": 9,
+                        "votosTotales": 3342,
+                        "porcentajeDeVoto": "0.27",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "00000000000000000047bada",
+                        "name": "Almenara de Adaja",
+                        "votos": 0,
+                        "votosTotales": 16,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "SUMAR"
+                    },
+                    {
+                        "id": "00000000000000000047bb3e",
+                        "name": "Amusquillo",
+                        "votos": 0,
+                        "votosTotales": 89,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "00000000000000000047bba2",
+                        "name": "Arroyo de la Encomienda",
+                        "votos": 31,
+                        "votosTotales": 12413,
+                        "porcentajeDeVoto": "0.25",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "00000000000000000047bc06",
+                        "name": "Ataquines",
+                        "votos": 0,
+                        "votosTotales": 458,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "00000000000000000047bc6a",
+                        "name": "Bahabón",
+                        "votos": 0,
+                        "votosTotales": 72,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "00000000000000000047bcce",
+                        "name": "Barcial de la Loma",
+                        "votos": 0,
+                        "votosTotales": 80,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047b882"
+                        "id": "00000000000000000047bd32",
+                        "name": "Barruelo del Valle",
+                        "votos": 0,
+                        "votosTotales": 39,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047b8e6"
+                        "id": "00000000000000000047bd96",
+                        "name": "Becilla de Valderaduey",
+                        "votos": 1,
+                        "votosTotales": 127,
+                        "porcentajeDeVoto": "0.79",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047b94a"
+                        "id": "00000000000000000047bdfa",
+                        "name": "Benafarces",
+                        "votos": 0,
+                        "votosTotales": 59,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047b9ae"
+                        "id": "00000000000000000047be5e",
+                        "name": "Bercero",
+                        "votos": 0,
+                        "votosTotales": 147,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ba12"
+                        "id": "00000000000000000047bec2",
+                        "name": "Berceruelo",
+                        "votos": 0,
+                        "votosTotales": 34,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ba76"
+                        "id": "00000000000000000047bf26",
+                        "name": "Berrueces",
+                        "votos": 0,
+                        "votosTotales": 75,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bada"
+                        "id": "00000000000000000047bf8a",
+                        "name": "Bobadilla del Campo",
+                        "votos": 1,
+                        "votosTotales": 207,
+                        "porcentajeDeVoto": "0.48",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bb3e"
+                        "id": "00000000000000000047bfee",
+                        "name": "Bocigas",
+                        "votos": 0,
+                        "votosTotales": 53,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bba2"
+                        "id": "00000000000000000047c052",
+                        "name": "Bocos de Duero",
+                        "votos": 0,
+                        "votosTotales": 50,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bc06"
+                        "id": "00000000000000000047c0b6",
+                        "name": "Boecillo",
+                        "votos": 1,
+                        "votosTotales": 2546,
+                        "porcentajeDeVoto": "0.04",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bc6a"
+                        "id": "00000000000000000047c11a",
+                        "name": "Bolaños de Campos",
+                        "votos": 0,
+                        "votosTotales": 183,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047bcce"
+                        "id": "00000000000000000047c17e",
+                        "name": "Brahojos de Medina",
+                        "votos": 0,
+                        "votosTotales": 76,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bd32"
+                        "id": "00000000000000000047c1e2",
+                        "name": "Bustillo de Chaves",
+                        "votos": 0,
+                        "votosTotales": 37,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bd96"
+                        "id": "00000000000000000047c246",
+                        "name": "Cabezón de Pisuerga",
+                        "votos": 5,
+                        "votosTotales": 2192,
+                        "porcentajeDeVoto": "0.23",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047bdfa"
+                        "id": "00000000000000000047c2aa",
+                        "name": "Cabezón de Valderaduey",
+                        "votos": 0,
+                        "votosTotales": 15,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047be5e"
+                        "id": "00000000000000000047c30e",
+                        "name": "Cabreros del Monte",
+                        "votos": 0,
+                        "votosTotales": 41,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bec2"
+                        "id": "00000000000000000047c372",
+                        "name": "Campaspero",
+                        "votos": 1,
+                        "votosTotales": 676,
+                        "porcentajeDeVoto": "0.15",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bf26"
+                        "id": "00000000000000000047c43a",
+                        "name": "Camporredondo",
+                        "votos": 0,
+                        "votosTotales": 121,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bf8a"
+                        "id": "00000000000000000047c49e",
+                        "name": "Canalejas de Peñafiel",
+                        "votos": 0,
+                        "votosTotales": 161,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047bfee"
+                        "id": "00000000000000000047c502",
+                        "name": "Canillas de Esgueva",
+                        "votos": 0,
+                        "votosTotales": 51,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c052"
+                        "id": "00000000000000000047c566",
+                        "name": "Carpio",
+                        "votos": 0,
+                        "votosTotales": 664,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c0b6"
+                        "id": "00000000000000000047c5ca",
+                        "name": "Casasola de Arión",
+                        "votos": 0,
+                        "votosTotales": 150,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c11a"
+                        "id": "00000000000000000047c62e",
+                        "name": "Castrejón de Trabancos",
+                        "votos": 0,
+                        "votosTotales": 139,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c17e"
+                        "id": "00000000000000000047c692",
+                        "name": "Castrillo de Duero",
+                        "votos": 0,
+                        "votosTotales": 77,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047c1e2"
+                        "id": "00000000000000000047c6f6",
+                        "name": "Castrillo-Tejeriego",
+                        "votos": 0,
+                        "votosTotales": 118,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047c246"
+                        "id": "00000000000000000047c75a",
+                        "name": "Castrobol",
+                        "votos": 0,
+                        "votosTotales": 40,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c2aa"
+                        "id": "00000000000000000047c7be",
+                        "name": "Castrodeza",
+                        "votos": 1,
+                        "votosTotales": 107,
+                        "porcentajeDeVoto": "0.93",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c30e"
+                        "id": "00000000000000000047c822",
+                        "name": "Castromembibre",
+                        "votos": 0,
+                        "votosTotales": 41,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c372"
+                        "id": "00000000000000000047c886",
+                        "name": "Castromonte",
+                        "votos": 1,
+                        "votosTotales": 247,
+                        "porcentajeDeVoto": "0.40",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c43a"
+                        "id": "00000000000000000047c8ea",
+                        "name": "Castronuevo de Esgueva",
+                        "votos": 4,
+                        "votosTotales": 286,
+                        "porcentajeDeVoto": "1.40",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c49e"
+                        "id": "00000000000000000047c94e",
+                        "name": "Castronuño",
+                        "votos": 0,
+                        "votosTotales": 550,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047c502"
+                        "id": "00000000000000000047c9b2",
+                        "name": "Castroponce",
+                        "votos": 1,
+                        "votosTotales": 96,
+                        "porcentajeDeVoto": "1.04",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c566"
+                        "id": "00000000000000000047ca16",
+                        "name": "Castroverde de Cerrato",
+                        "votos": 1,
+                        "votosTotales": 139,
+                        "porcentajeDeVoto": "0.72",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c5ca"
+                        "id": "00000000000000000047ca7a",
+                        "name": "Ceinos de Campos",
+                        "votos": 0,
+                        "votosTotales": 122,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c62e"
+                        "id": "00000000000000000047cade",
+                        "name": "Cervillego de la Cruz",
+                        "votos": 0,
+                        "votosTotales": 76,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047c692"
+                        "id": "00000000000000000047cb42",
+                        "name": "Cigales",
+                        "votos": 8,
+                        "votosTotales": 2852,
+                        "porcentajeDeVoto": "0.28",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c6f6"
+                        "id": "00000000000000000047cba6",
+                        "name": "Ciguñuela",
+                        "votos": 3,
+                        "votosTotales": 254,
+                        "porcentajeDeVoto": "1.18",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c75a"
+                        "id": "00000000000000000047cc0a",
+                        "name": "Cistérniga",
+                        "votos": 11,
+                        "votosTotales": 5277,
+                        "porcentajeDeVoto": "0.21",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c7be"
+                        "id": "00000000000000000047cc6e",
+                        "name": "Cogeces de Íscar",
+                        "votos": 0,
+                        "votosTotales": 103,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c822"
+                        "id": "00000000000000000047ccd2",
+                        "name": "Cogeces del Monte",
+                        "votos": 2,
+                        "votosTotales": 455,
+                        "porcentajeDeVoto": "0.44",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c886"
+                        "id": "00000000000000000047cd36",
+                        "name": "Corcos",
+                        "votos": 0,
+                        "votosTotales": 169,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c8ea"
+                        "id": "00000000000000000047cd9a",
+                        "name": "Corrales de Duero",
+                        "votos": 0,
+                        "votosTotales": 69,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c94e"
+                        "id": "00000000000000000047cdfe",
+                        "name": "Cubillas de Santa Marta",
+                        "votos": 0,
+                        "votosTotales": 232,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c9b2"
+                        "id": "00000000000000000047ce62",
+                        "name": "Cuenca de Campos",
+                        "votos": 0,
+                        "votosTotales": 138,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047ca16"
+                        "id": "00000000000000000047cec6",
+                        "name": "Curiel de Duero",
+                        "votos": 0,
+                        "votosTotales": 67,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ca7a"
+                        "id": "00000000000000000047c3d6",
+                        "name": "El Campillo",
+                        "votos": 0,
+                        "votosTotales": 137,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047cade"
+                        "id": "00000000000000000047cf2a",
+                        "name": "Encinas de Esgueva",
+                        "votos": 1,
+                        "votosTotales": 166,
+                        "porcentajeDeVoto": "0.60",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047cb42"
+                        "id": "00000000000000000047cf8e",
+                        "name": "Esguevillas de Esgueva",
+                        "votos": 0,
+                        "votosTotales": 200,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047cba6"
+                        "id": "00000000000000000047cff2",
+                        "name": "Fombellida",
+                        "votos": 0,
+                        "votosTotales": 131,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047cc0a"
+                        "id": "00000000000000000047d056",
+                        "name": "Fompedraza",
+                        "votos": 0,
+                        "votosTotales": 64,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047cc6e"
+                        "id": "00000000000000000047d0ba",
+                        "name": "Fontihoyuelo",
+                        "votos": 0,
+                        "votosTotales": 30,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ccd2"
+                        "id": "00000000000000000047d11e",
+                        "name": "Fresno el Viejo",
+                        "votos": 0,
+                        "votosTotales": 604,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047cd36"
+                        "id": "00000000000000000047d182",
+                        "name": "Fuensaldaña",
+                        "votos": 3,
+                        "votosTotales": 1247,
+                        "porcentajeDeVoto": "0.24",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047cd9a"
+                        "id": "00000000000000000047d1e6",
+                        "name": "Fuente el Sol",
+                        "votos": 0,
+                        "votosTotales": 103,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047cdfe"
+                        "id": "00000000000000000047d24a",
+                        "name": "Fuente-Olmedo",
+                        "votos": 0,
+                        "votosTotales": 20,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ce62"
+                        "id": "00000000000000000047d2ae",
+                        "name": "Gallegos de Hornija",
+                        "votos": 0,
+                        "votosTotales": 98,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047cec6"
+                        "id": "00000000000000000047d312",
+                        "name": "Gatón de Campos",
+                        "votos": 0,
+                        "votosTotales": 22,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047c3d6"
+                        "id": "00000000000000000047d376",
+                        "name": "Geria",
+                        "votos": 3,
+                        "votosTotales": 317,
+                        "porcentajeDeVoto": "0.95",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047cf2a"
+                        "id": "00000000000000000047d43e",
+                        "name": "Herrín de Campos",
+                        "votos": 1,
+                        "votosTotales": 88,
+                        "porcentajeDeVoto": "1.14",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047cf8e"
+                        "id": "00000000000000000047d4a2",
+                        "name": "Hornillos de Eresma",
+                        "votos": 0,
+                        "votosTotales": 120,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047cff2"
+                        "id": "00000000000000000047d506",
+                        "name": "Íscar",
+                        "votos": 2,
+                        "votosTotales": 3565,
+                        "porcentajeDeVoto": "0.06",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d056"
+                        "id": "00000000000000000047de66",
+                        "name": "La Mudarra",
+                        "votos": 1,
+                        "votosTotales": 131,
+                        "porcentajeDeVoto": "0.76",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d0ba"
+                        "id": "00000000000000000047e2b2",
+                        "name": "La Parrilla",
+                        "votos": 0,
+                        "votosTotales": 362,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d11e"
+                        "id": "00000000000000000047e316",
+                        "name": "La Pedraja de Portillo",
+                        "votos": 1,
+                        "votosTotales": 790,
+                        "porcentajeDeVoto": "0.13",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047d182"
+                        "id": "00000000000000000047f572",
+                        "name": "La Seca",
+                        "votos": 0,
+                        "votosTotales": 633,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047d1e6"
+                        "id": "00000000000000000047fc7a",
+                        "name": "La Unión de Campos",
+                        "votos": 0,
+                        "votosTotales": 130,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d24a"
+                        "id": "00000000000000000048125a",
+                        "name": "La Zarza",
+                        "votos": 0,
+                        "votosTotales": 84,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d2ae"
+                        "id": "00000000000000000047d56a",
+                        "name": "Laguna de Duero",
+                        "votos": 26,
+                        "votosTotales": 13780,
+                        "porcentajeDeVoto": "0.19",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d312"
+                        "id": "00000000000000000047d5ce",
+                        "name": "Langayo",
+                        "votos": 0,
+                        "votosTotales": 182,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d376"
+                        "id": "00000000000000000047d696",
+                        "name": "Llano de Olmedo",
+                        "votos": 0,
+                        "votosTotales": 41,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d43e"
+                        "id": "00000000000000000047d632",
+                        "name": "Lomoviejo",
+                        "votos": 0,
+                        "votosTotales": 123,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d4a2"
+                        "id": "00000000000000000047d6fa",
+                        "name": "Manzanillo",
+                        "votos": 0,
+                        "votosTotales": 24,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "VOX"
                     },
                     {
-                        "id": "00000000000000000047d506"
+                        "id": "00000000000000000047d75e",
+                        "name": "Marzales",
+                        "votos": 0,
+                        "votosTotales": 32,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047de66"
+                        "id": "00000000000000000047d7c2",
+                        "name": "Matapozuelos",
+                        "votos": 2,
+                        "votosTotales": 640,
+                        "porcentajeDeVoto": "0.31",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e2b2"
+                        "id": "00000000000000000047d826",
+                        "name": "Matilla de los Caños",
+                        "votos": 0,
+                        "votosTotales": 79,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e316"
+                        "id": "00000000000000000047d88a",
+                        "name": "Mayorga",
+                        "votos": 0,
+                        "votosTotales": 815,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f572"
+                        "id": "00000000000000000047d952",
+                        "name": "Medina de Rioseco",
+                        "votos": 1,
+                        "votosTotales": 2900,
+                        "porcentajeDeVoto": "0.03",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fc7a"
+                        "id": "00000000000000000047d8ee",
+                        "name": "Medina del Campo",
+                        "votos": 23,
+                        "votosTotales": 11522,
+                        "porcentajeDeVoto": "0.20",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000048125a"
+                        "id": "00000000000000000047d9b6",
+                        "name": "Megeces",
+                        "votos": 0,
+                        "votosTotales": 288,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d56a"
+                        "id": "00000000000000000047da1a",
+                        "name": "Melgar de Abajo",
+                        "votos": 1,
+                        "votosTotales": 89,
+                        "porcentajeDeVoto": "1.12",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d5ce"
+                        "id": "00000000000000000047da7e",
+                        "name": "Melgar de Arriba",
+                        "votos": 0,
+                        "votosTotales": 126,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d696"
+                        "id": "00000000000000000047dae2",
+                        "name": "Mojados",
+                        "votos": 3,
+                        "votosTotales": 1916,
+                        "porcentajeDeVoto": "0.16",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d632"
+                        "id": "00000000000000000047db46",
+                        "name": "Monasterio de Vega",
+                        "votos": 0,
+                        "votosTotales": 59,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047d6fa"
+                        "id": "00000000000000000047dbaa",
+                        "name": "Montealegre de Campos",
+                        "votos": 0,
+                        "votosTotales": 78,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d75e"
+                        "id": "00000000000000000047dc0e",
+                        "name": "Montemayor de Pililla",
+                        "votos": 1,
+                        "votosTotales": 628,
+                        "porcentajeDeVoto": "0.16",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d7c2"
+                        "id": "00000000000000000047dc72",
+                        "name": "Moral de la Reina",
+                        "votos": 0,
+                        "votosTotales": 100,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d826"
+                        "id": "00000000000000000047dcd6",
+                        "name": "Moraleja de las Panaderas",
+                        "votos": 0,
+                        "votosTotales": 34,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d88a"
+                        "id": "00000000000000000047dd3a",
+                        "name": "Morales de Campos",
+                        "votos": 0,
+                        "votosTotales": 100,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d952"
+                        "id": "00000000000000000047dd9e",
+                        "name": "Mota del Marqués",
+                        "votos": 1,
+                        "votosTotales": 230,
+                        "porcentajeDeVoto": "0.43",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047d8ee"
+                        "id": "00000000000000000047de02",
+                        "name": "Mucientes",
+                        "votos": 0,
+                        "votosTotales": 472,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047d9b6"
+                        "id": "00000000000000000047deca",
+                        "name": "Muriel",
+                        "votos": 0,
+                        "votosTotales": 99,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "Empate"
                     },
                     {
-                        "id": "00000000000000000047da1a"
+                        "id": "00000000000000000047df2e",
+                        "name": "Nava del Rey",
+                        "votos": 3,
+                        "votosTotales": 1244,
+                        "porcentajeDeVoto": "0.24",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047da7e"
+                        "id": "00000000000000000047df92",
+                        "name": "Nueva Villa de las Torres",
+                        "votos": 0,
+                        "votosTotales": 216,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047dae2"
+                        "id": "00000000000000000047dff6",
+                        "name": "Olivares de Duero",
+                        "votos": 2,
+                        "votosTotales": 217,
+                        "porcentajeDeVoto": "0.92",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047db46"
+                        "id": "00000000000000000047e05a",
+                        "name": "Olmedo",
+                        "votos": 0,
+                        "votosTotales": 2155,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047dbaa"
+                        "id": "00000000000000000047e0be",
+                        "name": "Olmos de Esgueva",
+                        "votos": 0,
+                        "votosTotales": 145,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047dc0e"
+                        "id": "00000000000000000047e122",
+                        "name": "Olmos de Peñafiel",
+                        "votos": 0,
+                        "votosTotales": 28,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047dc72"
+                        "id": "00000000000000000047e24e",
+                        "name": "Palazuelo de Vedija",
+                        "votos": 0,
+                        "votosTotales": 125,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047dcd6"
+                        "id": "00000000000000000047e37a",
+                        "name": "Pedrajas de San Esteban",
+                        "votos": 0,
+                        "votosTotales": 2101,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047dd3a"
+                        "id": "00000000000000000047e3de",
+                        "name": "Pedrosa del Rey",
+                        "votos": 0,
+                        "votosTotales": 109,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047dd9e"
+                        "id": "00000000000000000047e442",
+                        "name": "Peñafiel",
+                        "votos": 3,
+                        "votosTotales": 2735,
+                        "porcentajeDeVoto": "0.11",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047de02"
+                        "id": "00000000000000000047e4a6",
+                        "name": "Peñaflor de Hornija",
+                        "votos": 0,
+                        "votosTotales": 247,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047deca"
+                        "id": "00000000000000000047e50a",
+                        "name": "Pesquera de Duero",
+                        "votos": 0,
+                        "votosTotales": 302,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047df2e"
+                        "id": "00000000000000000047e56e",
+                        "name": "Piña de Esgueva",
+                        "votos": 0,
+                        "votosTotales": 218,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047df92"
+                        "id": "00000000000000000047e5d2",
+                        "name": "Piñel de Abajo",
+                        "votos": 0,
+                        "votosTotales": 121,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047dff6"
+                        "id": "00000000000000000047e636",
+                        "name": "Piñel de Arriba",
+                        "votos": 0,
+                        "votosTotales": 62,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e05a"
+                        "id": "00000000000000000047e6fe",
+                        "name": "Pollos",
+                        "votos": 0,
+                        "votosTotales": 396,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e0be"
+                        "id": "00000000000000000047e762",
+                        "name": "Portillo",
+                        "votos": 0,
+                        "votosTotales": 1560,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e122"
+                        "id": "00000000000000000047e7c6",
+                        "name": "Pozal de Gallinas",
+                        "votos": 2,
+                        "votosTotales": 373,
+                        "porcentajeDeVoto": "0.54",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e24e"
+                        "id": "00000000000000000047e82a",
+                        "name": "Pozaldez",
+                        "votos": 0,
+                        "votosTotales": 314,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e37a"
+                        "id": "00000000000000000047e88e",
+                        "name": "Pozuelo de la Orden",
+                        "votos": 0,
+                        "votosTotales": 45,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e3de"
+                        "id": "00000000000000000047e8f2",
+                        "name": "Puras",
+                        "votos": 0,
+                        "votosTotales": 42,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e442"
+                        "id": "00000000000000000047e956",
+                        "name": "Quintanilla de Arriba",
+                        "votos": 0,
+                        "votosTotales": 91,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e4a6"
+                        "id": "00000000000000000047ea1e",
+                        "name": "Quintanilla de Onésimo",
+                        "votos": 0,
+                        "votosTotales": 666,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e50a"
+                        "id": "00000000000000000047ea82",
+                        "name": "Quintanilla de Trigueros",
+                        "votos": 0,
+                        "votosTotales": 75,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e56e"
+                        "id": "00000000000000000047e9ba",
+                        "name": "Quintanilla del Molar",
+                        "votos": 0,
+                        "votosTotales": 37,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e5d2"
+                        "id": "00000000000000000047eae6",
+                        "name": "Rábano",
+                        "votos": 0,
+                        "votosTotales": 118,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e636"
+                        "id": "00000000000000000047eb4a",
+                        "name": "Ramiro",
+                        "votos": 0,
+                        "votosTotales": 35,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "VOX"
                     },
                     {
-                        "id": "00000000000000000047e6fe"
+                        "id": "00000000000000000047ebae",
+                        "name": "Renedo de Esgueva",
+                        "votos": 6,
+                        "votosTotales": 2236,
+                        "porcentajeDeVoto": "0.27",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e762"
+                        "id": "00000000000000000047ec12",
+                        "name": "Roales de Campos",
+                        "votos": 0,
+                        "votosTotales": 122,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e7c6"
+                        "id": "00000000000000000047ec76",
+                        "name": "Robladillo",
+                        "votos": 0,
+                        "votosTotales": 74,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e82a"
+                        "id": "00000000000000000047ed3e",
+                        "name": "Roturas",
+                        "votos": 0,
+                        "votosTotales": 24,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e88e"
+                        "id": "00000000000000000047eda2",
+                        "name": "Rubí de Bracamonte",
+                        "votos": 0,
+                        "votosTotales": 159,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e8f2"
+                        "id": "00000000000000000047ee06",
+                        "name": "Rueda",
+                        "votos": 0,
+                        "votosTotales": 723,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047e956"
+                        "id": "00000000000000000047ee6a",
+                        "name": "Saelices de Mayorga",
+                        "votos": 0,
+                        "votosTotales": 82,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ea1e"
+                        "id": "00000000000000000047eece",
+                        "name": "Salvador de Zapardiel",
+                        "votos": 0,
+                        "votosTotales": 88,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ea82"
+                        "id": "00000000000000000047ef32",
+                        "name": "San Cebrián de Mazote",
+                        "votos": 0,
+                        "votosTotales": 102,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047e9ba"
+                        "id": "00000000000000000047ef96",
+                        "name": "San Llorente",
+                        "votos": 0,
+                        "votosTotales": 74,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047eae6"
+                        "id": "00000000000000000047effa",
+                        "name": "San Martín de Valvení",
+                        "votos": 0,
+                        "votosTotales": 69,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047eb4a"
+                        "id": "00000000000000000047f05e",
+                        "name": "San Miguel del Arroyo",
+                        "votos": 1,
+                        "votosTotales": 451,
+                        "porcentajeDeVoto": "0.22",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ebae"
+                        "id": "00000000000000000047f0c2",
+                        "name": "San Miguel del Pino",
+                        "votos": 1,
+                        "votosTotales": 232,
+                        "porcentajeDeVoto": "0.43",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047ec12"
+                        "id": "00000000000000000047f126",
+                        "name": "San Pablo de la Moraleja",
+                        "votos": 0,
+                        "votosTotales": 84,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ec76"
+                        "id": "00000000000000000047f18a",
+                        "name": "San Pedro de Latarce",
+                        "votos": 0,
+                        "votosTotales": 329,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ed3e"
+                        "id": "00000000000000000047f1ee",
+                        "name": "San Pelayo",
+                        "votos": 0,
+                        "votosTotales": 37,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047eda2"
+                        "id": "00000000000000000047f252",
+                        "name": "San Román de Hornija",
+                        "votos": 0,
+                        "votosTotales": 197,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ee06"
+                        "id": "00000000000000000047f2b6",
+                        "name": "San Salvador",
+                        "votos": 0,
+                        "votosTotales": 18,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ee6a"
+                        "id": "00000000000000000047f4aa",
+                        "name": "San Vicente del Palacio",
+                        "votos": 0,
+                        "votosTotales": 114,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047eece"
+                        "id": "00000000000000000047f31a",
+                        "name": "Santa Eufemia del Arroyo",
+                        "votos": 0,
+                        "votosTotales": 57,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047ef32"
+                        "id": "00000000000000000047f37e",
+                        "name": "Santervás de Campos",
+                        "votos": 0,
+                        "votosTotales": 79,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ef96"
+                        "id": "00000000000000000047f3e2",
+                        "name": "Santibáñez de Valcorba",
+                        "votos": 0,
+                        "votosTotales": 142,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047effa"
+                        "id": "00000000000000000047f446",
+                        "name": "Santovenia de Pisuerga",
+                        "votos": 7,
+                        "votosTotales": 2505,
+                        "porcentajeDeVoto": "0.28",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f05e"
+                        "id": "00000000000000000047f50e",
+                        "name": "Sardón de Duero",
+                        "votos": 1,
+                        "votosTotales": 410,
+                        "porcentajeDeVoto": "0.24",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f0c2"
+                        "id": "00000000000000000047f5d6",
+                        "name": "Serrada",
+                        "votos": 0,
+                        "votosTotales": 693,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f126"
+                        "id": "00000000000000000047f63a",
+                        "name": "Siete Iglesias de Trabancos",
+                        "votos": 0,
+                        "votosTotales": 299,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f18a"
+                        "id": "00000000000000000047f69e",
+                        "name": "Simancas",
+                        "votos": 6,
+                        "votosTotales": 3459,
+                        "porcentajeDeVoto": "0.17",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f1ee"
+                        "id": "00000000000000000047f702",
+                        "name": "Tamariz de Campos",
+                        "votos": 0,
+                        "votosTotales": 57,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f252"
+                        "id": "00000000000000000047f766",
+                        "name": "Tiedra",
+                        "votos": 0,
+                        "votosTotales": 226,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f2b6"
+                        "id": "00000000000000000047f7ca",
+                        "name": "Tordehumos",
+                        "votos": 0,
+                        "votosTotales": 279,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f4aa"
+                        "id": "00000000000000000047f82e",
+                        "name": "Tordesillas",
+                        "votos": 9,
+                        "votosTotales": 5234,
+                        "porcentajeDeVoto": "0.17",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f31a"
+                        "id": "00000000000000000047f9be",
+                        "name": "Torre de Esgueva",
+                        "votos": 0,
+                        "votosTotales": 51,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f37e"
+                        "id": "00000000000000000047fa22",
+                        "name": "Torre de Peñafiel",
+                        "votos": 0,
+                        "votosTotales": 38,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f3e2"
+                        "id": "00000000000000000047f892",
+                        "name": "Torrecilla de la Abadesa",
+                        "votos": 3,
+                        "votosTotales": 182,
+                        "porcentajeDeVoto": "1.65",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f446"
+                        "id": "00000000000000000047f8f6",
+                        "name": "Torrecilla de la Orden",
+                        "votos": 0,
+                        "votosTotales": 192,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f50e"
+                        "id": "00000000000000000047f95a",
+                        "name": "Torrecilla de la Torre",
+                        "votos": 0,
+                        "votosTotales": 22,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "Empate"
                     },
                     {
-                        "id": "00000000000000000047f5d6"
+                        "id": "00000000000000000047fa86",
+                        "name": "Torrelobatón",
+                        "votos": 2,
+                        "votosTotales": 293,
+                        "porcentajeDeVoto": "0.68",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f63a"
+                        "id": "00000000000000000047faea",
+                        "name": "Torrescárcela",
+                        "votos": 0,
+                        "votosTotales": 111,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f69e"
+                        "id": "00000000000000000047fb4e",
+                        "name": "Traspinedo",
+                        "votos": 3,
+                        "votosTotales": 751,
+                        "porcentajeDeVoto": "0.40",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047f702"
+                        "id": "00000000000000000047fbb2",
+                        "name": "Trigueros del Valle",
+                        "votos": 1,
+                        "votosTotales": 221,
+                        "porcentajeDeVoto": "0.45",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f766"
+                        "id": "00000000000000000047fc16",
+                        "name": "Tudela de Duero",
+                        "votos": 6,
+                        "votosTotales": 5230,
+                        "porcentajeDeVoto": "0.11",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047f7ca"
+                        "id": "00000000000000000047fcde",
+                        "name": "Urones de Castroponce",
+                        "votos": 0,
+                        "votosTotales": 71,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f82e"
+                        "id": "00000000000000000047fd42",
+                        "name": "Urueña",
+                        "votos": 0,
+                        "votosTotales": 148,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f9be"
+                        "id": "00000000000000000047fda6",
+                        "name": "Valbuena de Duero",
+                        "votos": 0,
+                        "votosTotales": 262,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fa22"
+                        "id": "00000000000000000047fe0a",
+                        "name": "Valdearcos de la Vega",
+                        "votos": 0,
+                        "votosTotales": 44,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f892"
+                        "id": "00000000000000000047fe6e",
+                        "name": "Valdenebro de los Valles",
+                        "votos": 0,
+                        "votosTotales": 127,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047f8f6"
+                        "id": "00000000000000000047fed2",
+                        "name": "Valdestillas",
+                        "votos": 2,
+                        "votosTotales": 998,
+                        "porcentajeDeVoto": "0.20",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047f95a"
+                        "id": "00000000000000000047ff36",
+                        "name": "Valdunquillo",
+                        "votos": 0,
+                        "votosTotales": 102,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fa86"
+                        "id": "000000000000000000480062",
+                        "name": "Valladolid",
+                        "votos": 371,
+                        "votosTotales": 181035,
+                        "porcentajeDeVoto": "0.20",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047faea"
+                        "id": "00000000000000000047ff9a",
+                        "name": "Valoria la Buena",
+                        "votos": 0,
+                        "votosTotales": 461,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fb4e"
+                        "id": "00000000000000000047fffe",
+                        "name": "Valverde de Campos",
+                        "votos": 0,
+                        "votosTotales": 72,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fbb2"
+                        "id": "0000000000000000004800c6",
+                        "name": "Vega de Ruiponce",
+                        "votos": 0,
+                        "votosTotales": 53,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fc16"
+                        "id": "00000000000000000048012a",
+                        "name": "Vega de Valdetronco",
+                        "votos": 0,
+                        "votosTotales": 78,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fcde"
+                        "id": "00000000000000000048018e",
+                        "name": "Velascálvaro",
+                        "votos": 0,
+                        "votosTotales": 124,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fd42"
+                        "id": "0000000000000000004801f2",
+                        "name": "Velilla",
+                        "votos": 0,
+                        "votosTotales": 75,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fda6"
+                        "id": "000000000000000000480256",
+                        "name": "Velliza",
+                        "votos": 0,
+                        "votosTotales": 96,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fe0a"
+                        "id": "0000000000000000004802ba",
+                        "name": "Ventosa de la Cuesta",
+                        "votos": 0,
+                        "votosTotales": 86,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fe6e"
+                        "id": "00000000000000000048031e",
+                        "name": "Viana de Cega",
+                        "votos": 3,
+                        "votosTotales": 1438,
+                        "porcentajeDeVoto": "0.21",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fed2"
+                        "id": "0000000000000000004803e6",
+                        "name": "Villabáñez",
+                        "votos": 0,
+                        "votosTotales": 331,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "00000000000000000047ff36"
+                        "id": "00000000000000000048044a",
+                        "name": "Villabaruz de Campos",
+                        "votos": 0,
+                        "votosTotales": 20,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "000000000000000000480062"
+                        "id": "0000000000000000004804ae",
+                        "name": "Villabrágima",
+                        "votos": 0,
+                        "votosTotales": 710,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047ff9a"
+                        "id": "000000000000000000480512",
+                        "name": "Villacarralón",
+                        "votos": 0,
+                        "votosTotales": 51,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000047fffe"
+                        "id": "000000000000000000480576",
+                        "name": "Villacid de Campos",
+                        "votos": 0,
+                        "votosTotales": 60,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "0000000000000000004800c6"
+                        "id": "0000000000000000004805da",
+                        "name": "Villaco",
+                        "votos": 0,
+                        "votosTotales": 58,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000048012a"
+                        "id": "000000000000000000480706",
+                        "name": "Villafrades de Campos",
+                        "votos": 0,
+                        "votosTotales": 45,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000048018e"
+                        "id": "00000000000000000048076a",
+                        "name": "Villafranca de Duero",
+                        "votos": 1,
+                        "votosTotales": 148,
+                        "porcentajeDeVoto": "0.68",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "0000000000000000004801f2"
+                        "id": "0000000000000000004807ce",
+                        "name": "Villafrechós",
+                        "votos": 0,
+                        "votosTotales": 255,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "000000000000000000480256"
+                        "id": "000000000000000000480832",
+                        "name": "Villafuerte",
+                        "votos": 0,
+                        "votosTotales": 68,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "0000000000000000004802ba"
+                        "id": "000000000000000000480896",
+                        "name": "Villagarcía de Campos",
+                        "votos": 0,
+                        "votosTotales": 201,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000048031e"
+                        "id": "0000000000000000004808fa",
+                        "name": "Villagómez la Nueva",
+                        "votos": 0,
+                        "votosTotales": 33,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "0000000000000000004803e6"
+                        "id": "00000000000000000048095e",
+                        "name": "Villalán de Campos",
+                        "votos": 0,
+                        "votosTotales": 21,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000048044a"
+                        "id": "0000000000000000004809c2",
+                        "name": "Villalar de los Comuneros",
+                        "votos": 0,
+                        "votosTotales": 295,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "0000000000000000004804ae"
+                        "id": "000000000000000000480a26",
+                        "name": "Villalba de la Loma",
+                        "votos": 0,
+                        "votosTotales": 41,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "VOX"
                     },
                     {
-                        "id": "000000000000000000480512"
+                        "id": "000000000000000000480a8a",
+                        "name": "Villalba de los Alcores",
+                        "votos": 0,
+                        "votosTotales": 300,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "000000000000000000480576"
+                        "id": "000000000000000000480aee",
+                        "name": "Villalbarba",
+                        "votos": 0,
+                        "votosTotales": 77,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "0000000000000000004805da"
+                        "id": "000000000000000000480b52",
+                        "name": "Villalón de Campos",
+                        "votos": 6,
+                        "votosTotales": 1048,
+                        "porcentajeDeVoto": "0.57",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "000000000000000000480706"
+                        "id": "000000000000000000480bb6",
+                        "name": "Villamuriel de Campos",
+                        "votos": 0,
+                        "votosTotales": 38,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "00000000000000000048076a"
+                        "id": "000000000000000000480c1a",
+                        "name": "Villán de Tordesillas",
+                        "votos": 0,
+                        "votosTotales": 96,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "VOX"
                     },
                     {
-                        "id": "0000000000000000004807ce"
+                        "id": "000000000000000000480c7e",
+                        "name": "Villanubla",
+                        "votos": 3,
+                        "votosTotales": 1584,
+                        "porcentajeDeVoto": "0.19",
+                        "partidoGanador": "PP"
                     },
                     {
-                        "id": "000000000000000000480832"
+                        "id": "000000000000000000480ce2",
+                        "name": "Villanueva de Duero",
+                        "votos": 1,
+                        "votosTotales": 758,
+                        "porcentajeDeVoto": "0.13",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "000000000000000000480896"
+                        "id": "000000000000000000480d46",
+                        "name": "Villanueva de la Condesa",
+                        "votos": 0,
+                        "votosTotales": 30,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
                     },
                     {
-                        "id": "0000000000000000004808fa"
-                    },
-                    {
-                        "id": "00000000000000000048095e"
-                    },
-                    {
-                        "id": "0000000000000000004809c2"
-                    },
-                    {
-                        "id": "000000000000000000480a26"
-                    },
-                    {
-                        "id": "000000000000000000480a8a"
-                    },
-                    {
-                        "id": "000000000000000000480aee"
-                    },
-                    {
-                        "id": "000000000000000000480b52"
-                    },
-                    {
-                        "id": "000000000000000000480bb6"
-                    },
-                    {
-                        "id": "000000000000000000480c1a"
-                    },
-                    {
-                        "id": "000000000000000000480c7e"
-                    },
-                    {
-                        "id": "000000000000000000480ce2"
-                    },
-                    {
-                        "id": "000000000000000000480d46"
-                    },
-                    {
-                        "id": "000000000000000000480daa"
-                    },
-                    {
-                        "id": "000000000000000000480e0e"
-                    },
-                    {
-                        "id": "000000000000000000480e72"
-                    },
-                    {
-                        "id": "000000000000000000480ed6"
-                    },
-                    {
-                        "id": "000000000000000000480f3a"
-                    },
-                    {
-                        "id": "000000000000000000480f9e"
-                    },
-                    {
-                        "id": "000000000000000000481002"
-                    },
-                    {
-                        "id": "000000000000000000481066"
-                    },
-                    {
-                        "id": "0000000000000000004810ca"
-                    },
-                    {
-                        "id": "00000000000000000048112e"
-                    },
-                    {
-                        "id": "000000000000000000480382"
-                    },
-                    {
-                        "id": "000000000000000000481192"
-                    },
-                    {
-                        "id": "0000000000000000004811f6"
+                        "id": "000000000000000000480daa",
+                        "name": "Villanueva de los Caballeros",
+                        "votos": 0,
+                        "votosTotales": 117,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "000000000000000000480e0e",
+                        "name": "Villanueva de los Infantes",
+                        "votos": 0,
+                        "votosTotales": 88,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "000000000000000000480e72",
+                        "name": "Villanueva de San Mancio",
+                        "votos": 0,
+                        "votosTotales": 88,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "000000000000000000480ed6",
+                        "name": "Villardefrades",
+                        "votos": 0,
+                        "votosTotales": 97,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "000000000000000000480f3a",
+                        "name": "Villarmentero de Esgueva",
+                        "votos": 0,
+                        "votosTotales": 75,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
+                    },
+                    {
+                        "id": "000000000000000000480f9e",
+                        "name": "Villasexmir",
+                        "votos": 0,
+                        "votosTotales": 57,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "000000000000000000481002",
+                        "name": "Villavaquerín",
+                        "votos": 1,
+                        "votosTotales": 111,
+                        "porcentajeDeVoto": "0.90",
+                        "partidoGanador": "PSOE"
+                    },
+                    {
+                        "id": "000000000000000000481066",
+                        "name": "Villavellid",
+                        "votos": 0,
+                        "votosTotales": 42,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PSOE"
+                    },
+                    {
+                        "id": "0000000000000000004810ca",
+                        "name": "Villaverde de Medina",
+                        "votos": 1,
+                        "votosTotales": 344,
+                        "porcentajeDeVoto": "0.29",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "00000000000000000048112e",
+                        "name": "Villavicencio de los Caballeros",
+                        "votos": 0,
+                        "votosTotales": 153,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "000000000000000000480382",
+                        "name": "Viloria",
+                        "votos": 1,
+                        "votosTotales": 243,
+                        "porcentajeDeVoto": "0.41",
+                        "partidoGanador": "Empate"
+                    },
+                    {
+                        "id": "000000000000000000481192",
+                        "name": "Wamba",
+                        "votos": 0,
+                        "votosTotales": 213,
+                        "porcentajeDeVoto": "0.00",
+                        "partidoGanador": "PP"
+                    },
+                    {
+                        "id": "0000000000000000004811f6",
+                        "name": "Zaratán",
+                        "votos": 2,
+                        "votosTotales": 3539,
+                        "porcentajeDeVoto": "0.06",
+                        "partidoGanador": "PP"
                     }
                 ]
             },
