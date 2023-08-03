@@ -1,0 +1,212 @@
+[
+    {
+        "distrito": "Ciutat Vella",
+        "barrio": "El Raval",
+        "votos": 26,
+        "porcentaje": "0.04"
+    },
+    {
+        "distrito": "Ciutat Vella",
+        "barrio": "Barrio Gótico",
+        "votos": 13,
+        "porcentaje": "0.03"
+    },
+    {
+        "distrito": "Ciutat Vella",
+        "barrio": "Barceloneta y Sant Pere",
+        "votos": 21,
+        "porcentaje": "0.05"
+    },
+    {
+        "distrito": "Eixample",
+        "barrio": "Fort Pienc",
+        "votos": 41,
+        "porcentaje": "0.01"
+    },
+    {
+        "distrito": "Eixample",
+        "barrio": "Dreta de l'Eixample",
+        "votos": 16,
+        "porcentaje": "0.00"
+    },
+    {
+        "distrito": "Eixample",
+        "barrio": "L'Antiga Esquerra de l'Eixample",
+        "votos": 20,
+        "porcentaje": "0.00"
+    },
+    {
+        "distrito": "Eixample",
+        "barrio": "L'Nova Esquerra de l'Eixample / Sant Antoni",
+        "votos": 41,
+        "porcentaje": "0.00"
+    },
+    {
+        "distrito": "Eixample",
+        "barrio": "Sagrada Familia",
+        "votos": 19,
+        "porcentaje": "0.00"
+    },
+    {
+        "distrito": "Sants Monjtuic",
+        "barrio": "Poble Sec",
+        "votos": 55,
+        "porcentaje": "0.06"
+    },
+    {
+        "distrito": "Sants Monjtuic",
+        "barrio": "Sants",
+        "votos": 88,
+        "porcentaje": "0.06"
+    },
+    {
+        "distrito": "Les Corts",
+        "barrio": "Les corts",
+        "votos": 43,
+        "porcentaje": "0.02"
+    },
+    {
+        "distrito": "Les Corts",
+        "barrio": "Pedralbes",
+        "votos": 3,
+        "porcentaje": "0.00"
+    },
+    {
+        "distrito": "Sarrià Sant Gervasi",
+        "barrio": "Sarrià",
+        "votos": 14,
+        "porcentaje": "0.00"
+    },
+    {
+        "distrito": "Sarrià Sant Gervasi",
+        "barrio": "Sant Gervasi",
+        "votos": 43,
+        "porcentaje": "0.01"
+    },
+    {
+        "distrito": "Gràcia",
+        "barrio": "Vallcarca",
+        "votos": 17,
+        "porcentaje": "0.00"
+    },
+    {
+        "distrito": "Gràcia",
+        "barrio": "La Salut",
+        "votos": 21,
+        "porcentaje": "0.01"
+    },
+    {
+        "distrito": "Gràcia",
+        "barrio": "La Vila de Gràcia",
+        "votos": 19,
+        "porcentaje": "0.02"
+    },
+    {
+        "distrito": "Gràcia",
+        "barrio": "El Putxet i el Farró",
+        "votos": 2,
+        "porcentaje": "0.00"
+    },
+    {
+        "distrito": "Horta Guinardó",
+        "barrio": "Baix Guinardó",
+        "votos": 41,
+        "porcentaje": "0.02"
+    },
+    {
+        "distrito": "Horta Guinardó",
+        "barrio": "El Guinardó",
+        "votos": 28,
+        "porcentaje": "0.03"
+    },
+    {
+        "distrito": "Horta Guinardó",
+        "barrio": "Horta",
+        "votos": 22,
+        "porcentaje": "0.00"
+    },
+    {
+        "distrito": "Horta Guinardó",
+        "barrio": "El Carmel",
+        "votos": 78,
+        "porcentaje": "0.10"
+    },
+    {
+        "distrito": "Horta Guinardó",
+        "barrio": "La Teixonera",
+        "votos": 36,
+        "porcentaje": "0.02"
+    },
+    {
+        "distrito": "Nou Barris",
+        "barrio": "La Guineueta",
+        "votos": 24,
+        "porcentaje": "0.03"
+    },
+    {
+        "distrito": "Nou Barris",
+        "barrio": "Porta",
+        "votos": 84,
+        "porcentaje": "0.10"
+    },
+    {
+        "distrito": "Nou Barris",
+        "barrio": "Les Roquetes",
+        "votos": 65,
+        "porcentaje": "0.05"
+    },
+    {
+        "distrito": "Nou Barris",
+        "barrio": "Torre Baró",
+        "votos": 17,
+        "porcentaje": "0.02"
+    },
+    {
+        "distrito": "Sant Andreu",
+        "barrio": "Trinitat Vella",
+        "votos": 7,
+        "porcentaje": "0.01"
+    },
+    {
+        "distrito": "Sant Andreu",
+        "barrio": "Sant Andreu",
+        "votos": 83,
+        "porcentaje": "0.05"
+    },
+    {
+        "distrito": "Sant Andreu",
+        "barrio": "El Congrés i els Indians",
+        "votos": 64,
+        "porcentaje": "0.03"
+    },
+    {
+        "distrito": "Sant Martí",
+        "barrio": "El Camp de l'Arpa del Clot",
+        "votos": 27,
+        "porcentaje": "0.01"
+    },
+    {
+        "distrito": "Sant Martí",
+        "barrio": "El Parc i la Llacuna del Poblenou",
+        "votos": 51,
+        "porcentaje": "0.02"
+    },
+    {
+        "distrito": "Sant Martí",
+        "barrio": "Sant Martí de Provençals",
+        "votos": 84,
+        "porcentaje": "0.05"
+    },
+    {
+        "distrito": "Sant Martí",
+        "barrio": "El Poblenou",
+        "votos": 36,
+        "porcentaje": "0.00"
+    },
+    {
+        "distrito": "Sant Martí",
+        "barrio": "Diagonal Mar",
+        "votos": 39,
+        "porcentaje": "0.03"
+    }
+]

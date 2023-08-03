@@ -1,11 +1,37 @@
 var loadedData = [];
 var currentData = [];
+var barrios = [];
+var barriosResult = [];
 
 document.addEventListener("DOMContentLoaded", function() {
     readFile('https://raw.githubusercontent.com/rolmocalderon/Elecciones/main/data.json', (data) => {
         loadedData = data;
         showData(data, true);
         setBreadcrumb(data, "España");
+    });
+
+    readFile('./pais.json', async (data) => {
+        let config = await getConfig();
+        barrios = data.features.filter(f => f.properties.NMUN == "Barcelona").map(b => b.properties);
+        config.districts.forEach(d => {
+            // let ddata = barrios.filter(b => b.CDIS === d.district).map(d => d.parties).flat(1).filter(p => p.c === "FO");
+            // console.log(d.name, ddata.map(p => p.v).reduce((a, b) => a + b, 0), ddata.map(p => p.p).reduce((a, b) => a + b, 0).toFixed(2))
+            d.neighbourhoods && d.neighbourhoods.forEach(n => {
+                let districtData = barrios.filter(b => b.CDIS === d.district);
+                let sectionData = districtData.filter(dis => n.sections.includes(dis.CSEC));
+                let sectionPartyData = sectionData.map(d => d.parties).flat(1).filter(p => p.c === "FO");
+                let sectionVotes = sectionPartyData.map(p => p.v).reduce((a, b) => a + b, 0);
+                let sectionVotePercent = sectionPartyData.map(p => p.p).reduce((a, b) => a + b, 0).toFixed(4);
+                barriosResult.push({
+                    "distrito": d.name,
+                    "barrio": n.name,
+                    "votos": sectionVotes,
+                    "porcentaje": sectionVotePercent
+                });
+            })
+        });
+
+        console.log(barriosResult)
     });
 
     let headerCells = document.querySelectorAll('.table-header .table-cell')
@@ -38,6 +64,20 @@ document.addEventListener("DOMContentLoaded", function() {
         showData(filteredData, false)
     });
 });
+
+function getConfig(){
+    return new Promise((resolve, reject) => {
+        fetch("./config.json")
+          .then(response => {
+            if (!response.ok) {
+              throw new Error('Network response was not ok');
+            }
+            return response.json();
+          })
+          .then(data => resolve(data))
+          .catch(error => reject(error));
+      });
+}
 
 function setBreadcrumb(data, regionName){
     let parent = document.querySelector('.breadcrumb');
